@@ -1,0 +1,22 @@
+[Oct 16 19:21:18] 
+[Oct 16 19:21:18] ==DUPLICATOR INSTALLER BOOTSTRAP v1.3.22==
+[Oct 16 19:21:18] ----------------------------------------------------
+[Oct 16 19:21:18] Installer bootstrap start
+[Oct 16 19:21:18] Using archive C:/xampp/htdocs/batepapo/20191010_batepapo_955cc97100b972d07854_20191010201052_archive.daf
+[Oct 16 19:21:18] Ready to extract the installer
+[Oct 16 19:21:18] Checking permission of destination folder
+[Oct 16 19:21:28] No need to create dup-installer/.htaccess or dup-installer/.user.ini
+[Oct 16 19:21:28] ERROR:  SAPI: Unrecognized
+[Oct 16 19:21:28] Set permissions of C:/xampp/htdocs/batepapo/dup-installer to 0<br/>
+[Oct 16 19:21:28] Set permissions of C:/xampp/htdocs/batepapo/dup-installer/assets to 0<br/>
+[Oct 16 19:21:28] Set permissions of C:/xampp/htdocs/batepapo/dup-installer/classes to 0<br/>
+[Oct 16 19:21:28] Set permissions of C:/xampp/htdocs/batepapo/dup-installer/ctrls to 0<br/>
+[Oct 16 19:21:28] Set permissions of C:/xampp/htdocs/batepapo/dup-installer/favicon to 0<br/>
+[Oct 16 19:21:28] Set permissions of C:/xampp/htdocs/batepapo/dup-installer/lib to 0<br/>
+[Oct 16 19:21:28] Set permissions of C:/xampp/htdocs/batepapo/dup-installer/views to 0<br/>
+[Oct 16 19:21:28] Set permissions of C:/xampp/htdocs/batepapo/dup-installer/dup-archive__955cc97-10201052.txt to 0<br/>
+[Oct 16 19:21:28] Set permissions of C:/xampp/htdocs/batepapo/dup-installer/dup-database__955cc97-10201052.sql to 0<br/>
+[Oct 16 19:21:28] Set permissions of C:/xampp/htdocs/batepapo/dup-installer/dup-scan__955cc97-10201052.json to 0<br/>
+[Oct 16 19:21:28] Set permissions of C:/xampp/htdocs/batepapo/dup-installer/index.php to 0<br/>
+[Oct 16 19:21:28] Set permissions of C:/xampp/htdocs/batepapo/dup-installer/main.installer.php to 0<br/>
+[Oct 16 19:21:28] DONE: No detected errors so redirecting to the main installer. Main Installer URI = http://localhost/batepapo/dup-installer/main.installer.php

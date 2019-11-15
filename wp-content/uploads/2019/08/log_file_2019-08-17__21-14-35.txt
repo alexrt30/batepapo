@@ -1,0 +1,53 @@
+
+---Downloaded files---
+The import files for: Online Product Support Desk were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://androidantenado.tech/bp
+Data file = /home/u290422231/domains/androidantenado.tech/public_html/bp/wp-content/plugins/lipi-framework/import/seven/demo-content-7.xml
+Widget file = /home/u290422231/domains/androidantenado.tech/public_html/bp/wp-content/plugins/lipi-framework/import/seven/widgets-7.wie
+Customizer file = not defined!
+Redux files:
+_lipi_theme_options_ -> /home/u290422231/domains/androidantenado.tech/public_html/bp/wp-content/plugins/lipi-framework/import/seven/redux-7.json 
+
+
+---Importing widgets---
+Sidebar : 
+
+Posts recentes - Recent Posts - Imported
+Categorias - Categories - Imported
+Arquivos - Archives - Imported
+Nuvem de tags - Tags - Imported
+
+Footer Box 1 : 
+
+Texto - No Title - Imported
+
+Footer Box 2 : 
+
+Texto - Company - Imported
+
+Footer Box 3 : 
+
+Texto - Support - Imported
+
+Footer Box 4 : 
+
+Texto - Social - Imported
+
+bbPress : 
+
+(bbPress) Widget de login - No Title - Imported
+Texto - Forum Support Policy - Imported
+
+Header - Social Icon : 
+
+Lipi - Social Icons - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: _lipi_theme_options_ finished successfully!
+
+---pt-ocdi/after_import---
+

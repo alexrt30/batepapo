@@ -1,0 +1,59 @@
+
+---Downloaded files---
+The import files for: Web Hosting Support Desk were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://androidantenado.tech/bp
+Data file = /home/u290422231/domains/androidantenado.tech/public_html/bp/wp-content/plugins/lipi-framework/import/ten/demo-content-10.xml
+Widget file = /home/u290422231/domains/androidantenado.tech/public_html/bp/wp-content/plugins/lipi-framework/import/ten/widgets-10.wie
+Customizer file = not defined!
+Redux files:
+_lipi_theme_options_ -> /home/u290422231/domains/androidantenado.tech/public_html/bp/wp-content/plugins/lipi-framework/import/ten/redux-10.json 
+
+
+---Importing widgets---
+Footer Box 1 : 
+
+Texto - No Title - Imported
+
+Footer Box 2 : 
+
+Texto - Company - Imported
+
+Footer Box 3 : 
+
+Texto - Support - Imported
+
+Footer Box 4 : 
+
+Texto - Social - Imported
+
+KB Category Sidebar : 
+
+KB Categroy - KB Category - Imported
+
+KB Single Post Sidebar : 
+
+KB Records - ONLY for KB Page - No Title - Imported
+KB Categroy - KB Category - Imported
+
+FAQ Sidebar : 
+
+FAQ Categroy - FAQ Category - Imported
+
+bbPress : 
+
+(bbPress) Widget de login - No Title - Widget already exists
+Texto - Forum Support Policy - Widget already exists
+
+Header - Social Icon : 
+
+Lipi - Social Icons - No Title - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: _lipi_theme_options_ finished successfully!
+
+---pt-ocdi/after_import---
+

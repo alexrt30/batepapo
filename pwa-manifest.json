@@ -1,0 +1,23 @@
+{
+    "name": "BP",
+    "short_name": "BP",
+    "description": "BP",
+    "icons": [
+        {
+            "src": "https:\/\/androidantenado.tech\/bp\/wp-content\/uploads\/2019\/08\/download__1_-removebg-preview.png",
+            "sizes": "192x192",
+            "type": "image\/png"
+        },
+        {
+            "src": "https:\/\/androidantenado.tech\/bp\/wp-content\/uploads\/2019\/08\/download__1_-removebg-preview.png",
+            "sizes": "512x512",
+            "type": "image\/png"
+        }
+    ],
+    "background_color": "#336699",
+    "theme_color": "#336699",
+    "display": "standalone",
+    "orientation": "portrait",
+    "start_url": "https:\/\/androidantenado.tech\/bp\/",
+    "scope": "https:\/\/androidantenado.tech\/bp\/"
+}
